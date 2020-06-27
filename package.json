@@ -1,0 +1,12 @@
+{
+  "name": "tsconfig-plantain",
+  "version": "0.0.1",
+  "description": "base tsconfig.json",
+  "main": "tsconfig.json",
+  "files": [
+    "tsconfig.json"
+  ],
+  "repository": "https://github.com/plantain-00/tsconfig-plantain.git",
+  "author": "York Yao <me@yorkyao.com>",
+  "license": "MIT"
+}
